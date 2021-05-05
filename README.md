@@ -1,4 +1,4 @@
-# Flask-Quiz | Discovering Python testing capabilities 
+# Flask-Quiz  
 
 This app covers an introduction to Flask through creating x3 html files that call data from a dedicated local json database. All x3 html files extend from `base.html` file. 
 
